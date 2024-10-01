@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on neural networks<br>🌱 I’m currently learning IT
+🔭 I’m currently working on neural networks and studying their behaviour!
 
 
 ## 🌐 Socials:
