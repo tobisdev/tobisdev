@@ -34,9 +34,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=tobisdev&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tobisdev&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/tobisdev/tobisdev/output/snake.svg" alt="Snake animation" />
-
-###
