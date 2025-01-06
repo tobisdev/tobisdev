@@ -2,6 +2,8 @@
 
 ###
 
+<p align="left">Derzeitig arbeite ich an künstlichen Intelligenzen und versuche deren Verhalten zu untersuchen!</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
@@ -23,9 +25,6 @@
 </div>
 
 ###
-
-<p align="left">Derzeitig arbeite ich an künstlichen Intelligenzen und versuche deren Verhalten zu untersuchen!</p>
-<br>
 
 <h3 align="left">Programmiersprachen</h3>
 <p align="left">C, C#, C++<br>Java<br>Python</p>
