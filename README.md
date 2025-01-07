@@ -37,13 +37,13 @@
 
 <h3 align="left">Projekte</h3>
 <ul align="left">
-  <li>Diplomarbeit: Implementierung eines neuronalen Netzes, welches mithilfe eines genetischen Algorithmus das Autofahren innerhalb eines 2D-Spiels erlernt  
+  <li>Diplomarbeit: Implementierung eines neuronalen Netzes in C++, welches mithilfe eines genetischen Algorithmus das Autofahren innerhalb eines 2D-Spiels erlernt  
     - <a href="https://github.com/tobisdev/Cpp-GenerativeAI">Projekt ansehen</a>
   </li>
   <li>Bilderkennung Prototyp: Implementierung eines neuronalen Netzes in C++ zur Erkennung von Ziffern in Bildern, unter Anwendung von Gradient Descent und Backpropagation (Noch nicht fertiggestellt!)  
-    - <a href="https://github.com/tobisdev/Cpp-GenerativeAI">Projekt ansehen</a>
+    - <a href="https://github.com/tobisdev/NeuralNetwork">Projekt ansehen</a>
   </li>
-  <li>2D-Spiel: Entwicklung einer physikalischen zweidimensionalen Spielumgebung, in welcher sich der Spielcharakter frei bewegen und mit seiner Umgebung interagieren kann  
+  <li>2D-Spiel: Entwicklung einer physikalischen zweidimensionalen Spielumgebung in Java, in welcher sich der Spielcharakter frei bewegen und mit seiner Umgebung interagieren kann  
     - <a href="https://github.com/tobisdev/BowsAndSpears">Projekt ansehen</a>
   </li>
 </ul>
