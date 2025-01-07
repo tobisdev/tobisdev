@@ -1,8 +1,9 @@
-<h2 align="left">Hallo 👋! Mein Name ist Tobias</h2>
+
+<h2 align="left">Hello 👋! My Name is Tobias</h2>
 
 ###
 
-<p align="left">Derzeitig arbeite ich an künstlichen Intelligenzen und versuche deren Verhalten zu untersuchen!</p>
+<p align="left">Currently, I am working on artificial intelligences and trying to analyze their behavior!</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -26,25 +27,25 @@
 
 ###
 
-<h3 align="left">Programmiersprachen</h3>
+<h3 align="left">Programming Languages</h3>
 <p align="left">C, C#, C++<br>Java<br>Python</p>
 
 <h3 align="left">IDEs</h3>
 <p align="left">Visual Studio<br>Visual Studio Code<br>CLion<br>IntelliJ<br>PyCharm</p>
 
-<h3 align="left">Entwickler Tools</h3>
+<h3 align="left">Developer Tools</h3>
 <p align="left">Git<br>GitHub<br>Markdown<br>VMware & Linux<br>PuTTY<br>WinSCP</p>
 
-<h3 align="left">Projekte</h3>
+<h3 align="left">Projects</h3>
 <ul align="left">
-  <li>Diplomarbeit: Implementierung eines neuronalen Netzes in C++, welches mithilfe eines genetischen Algorithmus das Autofahren innerhalb eines 2D-Spiels erlernt  
-    - <a href="https://github.com/tobisdev/Cpp-GenerativeAI">Projekt ansehen</a>
+  <li>Thesis: Implementation of a neural network in C++ that learns to drive cars in a 2D game using a genetic algorithm  
+    - <a href="https://github.com/tobisdev/Cpp-GenerativeAI">View project</a>
   </li>
-  <li>Bilderkennung Prototyp: Implementierung eines neuronalen Netzes in C++ zur Erkennung von Ziffern in Bildern, unter Anwendung von Gradient Descent und Backpropagation (Noch nicht fertiggestellt!)  
-    - <a href="https://github.com/tobisdev/NeuralNetwork">Projekt ansehen</a>
+  <li>Image Recognition Prototype: Implementation of a neural network in C++ to recognize digits in images, using Gradient Descent and Backpropagation (Not yet completed!)  
+    - <a href="https://github.com/tobisdev/NeuralNetwork">View project</a>
   </li>
-  <li>2D-Spiel: Entwicklung einer physikalischen zweidimensionalen Spielumgebung in Java, in welcher sich der Spielcharakter frei bewegen und mit seiner Umgebung interagieren kann  
-    - <a href="https://github.com/tobisdev/BowsAndSpears">Projekt ansehen</a>
+  <li>2D Game: Development of a physical two-dimensional game environment in Java, where the game character can move freely and interact with the environment  
+    - <a href="https://github.com/tobisdev/BowsAndSpears">View project</a>
   </li>
 </ul>
 
