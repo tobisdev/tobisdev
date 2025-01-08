@@ -58,8 +58,9 @@
 ![Years on GitHub](https://badges.pufler.dev/years/tobisdev)
 
 ###
-<p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobisdev&layout=compact&theme=radical" style="height: 200px; width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobisdev&show_icons=true&theme=radical" style="height: 200px; width: 49%;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 8%; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobisdev&layout=compact&theme=radical" style="height: 200px; width: 46%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tobisdev&show_icons=true&theme=radical" style="height: 200px; width: 46%;">
 </p>
+
 
