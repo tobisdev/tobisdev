@@ -49,10 +49,17 @@
   </li>
 </ul>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tobisdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=tobisdev&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=tobisdev&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
+<h3 align="left">Statistics</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tobisdev&color=blue)
+![Total Contributions](https://badges.pufler.dev/commits/monthly/tobisdev)
+![Total Repositories](https://badges.pufler.dev/repos/tobisdev)
+![Years on GitHub](https://badges.pufler.dev/years/tobisdev)
+
+###
+<p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobisdev&layout=compact&theme=radical" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tobisdev&show_icons=true&theme=radical" style="height: 200px;">
+</p>
+
